@@ -18,7 +18,7 @@ import {
 } from '../constants/actionTypes';
 
 const defaultState = {
-  appName: 'Cafe24 Playground',
+  appName: 'Cafe24 Playground 😀',
   token: null,
   viewChangeCounter: 0
 };
